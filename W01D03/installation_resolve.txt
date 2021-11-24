@@ -1,0 +1,7 @@
+# Installation Issues:-
+1) Reinstall (Make sure you follow all the steps in the ppt)
+(Try to install only Shell and Server if you choose the custom installtion option)
+2) Google your error exactly and
+try to resolve your issue on your own.
+3) Screenshot the error and explain
+it in Teams
